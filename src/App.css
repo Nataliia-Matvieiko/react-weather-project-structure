@@ -1,0 +1,20 @@
+.App {
+    backdrop-filter: blur(20px);
+    margin: 30px auto;
+    max-width: 700px;
+}
+
+.App footer {
+    font-size: 11px;
+    margin: 10px 0;
+    text-align: center;
+    color: #fff;
+}
+
+.App a {
+    text-decoration: none;
+    color: cornflowerblue;
+    font-size: 14px;
+    font-weight: bold;
+}
+
